@@ -1,1 +1,1 @@
-<h1 align="center"><a href="https://snipe.sh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CC531&repeat=false&random=false&width=435&lines=%2F+snipe.sh" alt="snipe.sh typing animation" /></a></h1>
+<h1 align="center"><a href="https://snipe.sh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CC531&repeat=false&random=false&width=435&lines=%2Fsnipe.sh" alt="snipe.sh typing animation" /></a></h1>
